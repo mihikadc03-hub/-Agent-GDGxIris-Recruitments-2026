@@ -1,0 +1,33 @@
+{
+  "name": "gdgxiris-recruitments-2026",
+  "version": "1.0.0",
+  "description": "- It is perfectly fine if you have no experience in the field and trying it out for the first time. Please put in sincere efforts and try to learn from whatever you complete!\r - Each task has an ID, tags, mentor, description, tips and useful resources.\r - You can refer to the resources put up in each task to understand the concepts required to complete the task.\r - Feel free to reach out to the mentors for any assistance you need.\r - Mention the Task ID attempted in the README of your private GitHub repository.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mihikadc03-hub/-Agent-GDGxIris-Recruitments-2026.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mihikadc03-hub/-Agent-GDGxIris-Recruitments-2026/issues"
+  },
+  "homepage": "https://github.com/mihikadc03-hub/-Agent-GDGxIris-Recruitments-2026#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dockerode": "^5.0.1",
+    "dotenv": "^18.0.5",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "socket.io": "^4.8.4"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^7.0.0",
+    "hardhat": "^3.18.1"
+  }
+}
